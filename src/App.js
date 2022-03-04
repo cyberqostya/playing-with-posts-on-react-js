@@ -24,7 +24,7 @@ function App() {
         isLoading,
       }}
     >
-      <HashRouter>
+      <HashRouter basename='/'>
         <MyNavbar />
         <AppRouter />
       </HashRouter>
