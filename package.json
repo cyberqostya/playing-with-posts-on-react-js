@@ -1,8 +1,8 @@
 {
-  "name": "reci",
+  "name": "playing-with-posts-on-react-js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cyberqostya.github.io/playing-with-posts-on-react-js/#/",
+  "homepage": "https://cyberqostya.github.io/playing-with-posts-on-react-js/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
